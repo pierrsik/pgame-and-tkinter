@@ -1,0 +1,37 @@
+{
+  "question": [
+    "Q1. How do you pronounce C#?",
+    "Q2. How do you print 'Hello World' in Python?",
+    "Q3. Which of these is not a programming language?",
+    "Q4. What does the || operator represent?"
+  ],
+  "answer": [
+    1,
+    2,
+    3,
+    2
+  ],
+  "options": [
+
+    ["See-Sharp",
+      "See-Hashtag",
+      "See (the # is silent)",
+      "C-Number"
+    ],
+    ["Print Hello World",
+      "print('Hello World')",
+      "System.out.println(Hello World)",
+      "None of the above"
+    ],
+    ["C++",
+      "Python",
+      "HTML",
+      "Java"
+    ],
+    ["And",
+      "Or",
+      "Not",
+      "Break"
+    ]
+  ]
+}

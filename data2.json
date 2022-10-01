@@ -1,0 +1,42 @@
+{
+  
+"question": [
+    "Q1. if a hen and a half lays an egg and half in a day and half\n how many eggs will 6 hens lay in 6 days?",
+    "Q2. a yellow one storey builing has yellow windows,doors,walls \n what is the color of the stairs",
+    "Q3.  A boy and a doctor were fishing, The boy is the doctor's son,but the\n doctor isn't the boys father. who is the doctor?? ",
+    "Q4.  a farmer has 17 sheep , all but 9 die.\nHow many are left alive "
+  ],
+  
+"answer": [
+    1,
+    2,
+    3,
+    2
+  ],
+  
+"options": [
+
+    ["24",
+      "12",
+      "6",
+      "4"
+    ],
+    ["red",
+      "none",
+      "yellow",
+      "blue"
+    ],
+    ["doctor",
+      "uncle",
+      "mother",
+      "other"
+    ],
+    ["17",
+      "9",
+      "8",
+      "zero"
+    ]
+  ]
+
+}
+
